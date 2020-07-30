@@ -1,11 +1,11 @@
 # Android-University-Landmark-Classifier
 *Android app that identifies UT and UTD landmarks*
 
-**Goal:** Create a valuable resource for students, campus members, and even the general public if they needed quick access to information, in order to learn more about their university. 
+**Goal:** Create a valuable resource for students, campus members, and the general public if they needed quick access to information in order to learn more about their university. 
 
 **Paper:** https://drive.google.com/drive/folders/1xac880CPJmJwW9BjwqDhgR2E9UCA7yIZ
 
-I hope my app could potentially be used by a university to help their students on campus tours, or even having the general public learn more about their favorite universities on the go.
+I hope my app could potentially be used by a university to help their students on campus tours, or by the public to learn more about their favorite universities on the go.
 
 **Model:**
 - **University_Image_Classification_on_Android.ipynb** is a model I created in TensorFlow utilizing Transfer Learning on VGG16.
