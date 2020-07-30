@@ -1,7 +1,7 @@
 # Android-University-Landmark-Classifier
 *Android app that identifies UT and UTD landmarks*
 
-**Goal:** Create a valuable resource for students, campus members, and the general public if they needed quick access to information in order to learn more about their university. 
+**Goal:** Create a valuable resource for students, campus members, and the general public if they need quick access to information in order to learn more about their university. 
 
 **Paper:** https://drive.google.com/drive/folders/1xac880CPJmJwW9BjwqDhgR2E9UCA7yIZ
 
