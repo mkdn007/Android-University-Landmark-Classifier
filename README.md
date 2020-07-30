@@ -14,6 +14,6 @@ I hope my app could potentially be used by a university to help their students o
 - **Colab:** https://colab.research.google.com/drive/1dLbMKrj2IvKQK7Tsaj3yJBYD4HwhuzoM?usp=sharing
 
 **Android:**
-- **/source code/university_landmark_classifier** is my app project I created in Android Studio. To open the project in Android Studio, please "Open an existing Android Studio Project" on the start up menu. Refer to **android_studio_help.png**
+- **/source code/university_landmark_classifier** is my app project I created in Android Studio. To open the project in Android Studio, please select "Open an existing Android Studio Project" on the start up menu. Refer to **android_studio_help.png**. Select the folder "university_landmark_classiier".
 - **university_landmark_classifier.apk** is the APK file of my Android app. Install this into your phone to use. 
 
