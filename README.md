@@ -3,9 +3,11 @@
 
 **Goal:** Create a valuable resource for students, campus members, and the general public if they need quick access to information in order to learn more about their university. 
 
-**Project Demo:** https://drive.google.com/file/d/1CXncF-4itkERrPvYgpNN8AdFgt3s4AcU/view?usp=sharing
+**Project Demo:** https://www.youtube.com/watch?v=Bdfpa0ntsiY&feature=youtu.be&ab_channel=Jairam
 
-**Paper:** https://drive.google.com/drive/folders/1xac880CPJmJwW9BjwqDhgR2E9UCA7yIZ
+**UTD Project Presentation:** https://drive.google.com/file/d/1CXncF-4itkERrPvYgpNN8AdFgt3s4AcU/view?usp=sharing
+
+**Research Paper:** https://drive.google.com/drive/folders/1xac880CPJmJwW9BjwqDhgR2E9UCA7yIZ
 
 I hope my app could potentially be used by a university to help their students on campus tours, or by the public to learn more about their favorite universities on the go.
 
